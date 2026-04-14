@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Shailrathore
 - 👀 I’m interested in Project Management
 - 🌱 I’m currently learning Data Management
-- 💞️ I’m looking for Scrum master/Project Manager Role
-- 📫 Reach me on shaileshrathoreofficial@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sharks are older than trees
 
 <!---
